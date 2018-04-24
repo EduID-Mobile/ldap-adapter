@@ -1,5 +1,5 @@
 {
-  "name": "ldap-adapter",
+  "name": "oidc-ldap-adapter",
   "version": "1.0.0",
   "description": "A ldap to JSON converter for ldapjs",
   "main": "lib/index.js",
