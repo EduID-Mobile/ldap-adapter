@@ -87,3 +87,36 @@ means before assignment takes places. Note that any set assignment will happen
   }]
 }
 ```
+
+## Manipulators
+
+### replace
+value: ...
+
+### separator
+
+value: string
+
+#### assign
+
+value: array of strings
+
+### json
+
+value: (true | false)
+
+### label
+
+value: string
+
+### lowercase
+
+value: (true | false)
+
+### suffix
+
+value: string
+
+### array
+
+value: (true | false)
